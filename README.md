@@ -41,7 +41,7 @@ Você (iMessage)              Omni-Action Hub                    Linear
 ### Passo 1 — Clone o repositório
 
 ```sh
-git clone https://github.com/fecabral/omni-action-hub.git && cd omni-action-hub
+git clone https://github.com/fecabrall/omni-action-hub.git && cd omni-action-hub
 ```
 
 ### Passo 2 — Configure as variáveis
